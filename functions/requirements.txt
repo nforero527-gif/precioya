@@ -1,0 +1,5 @@
+azure-functions==1.17.0
+azure-cosmos==4.5.1
+requests==2.31.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
